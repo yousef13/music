@@ -1,4 +1,4 @@
-owner=402842588908093440
+owner=545201641071050752
 prefix=Y
 game=YP
 stayinchannel=true
